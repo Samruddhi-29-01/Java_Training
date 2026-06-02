@@ -8,7 +8,18 @@ public class RightPyramind {
             for (int space = 1; space <= line - row; space++) {
                 System.out.print(" ");
             }
-            for (int star = 1; star <= row; star++) {
+            for (int star = 1; star <= row * 2 - 1; star++) {
+                System.out.print("*");
+            }
+            System.out.println();
+
+        }
+
+        for (int row = line - 1; row >= 1; row--) {
+            for (int space = 1; space <= line - row; space++) {
+                System.out.print(" ");
+            }
+            for (int star = 1; star <= row * 2 - 1; star++) {
                 System.out.print("*");
             }
             System.out.println();
