@@ -42,5 +42,7 @@ public class App2 {
 
         }
 
+        // cust1.ManagerName="Kanchan";
+
     }
 }

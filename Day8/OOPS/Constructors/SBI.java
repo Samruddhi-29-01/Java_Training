@@ -1,6 +1,7 @@
 package Day8.OOPS.Constructors;
 
 public class SBI {
+    final String ManagerName = "Jaanu Kumar";
     public String name;
     public String AccNo;
     public int balance;
