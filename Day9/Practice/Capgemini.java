@@ -1,4 +1,4 @@
-package Day9;
+package Day9.Practice;
 
 public class Capgemini {
     private boolean insurance;
