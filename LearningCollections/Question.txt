@@ -21,3 +21,27 @@ Class Product{
 
 
 List<Product> = new ArrayList<>();
+
+
+
+
+
+
+class Review{
+    id
+    Product Milk
+    String Comments
+} 
+
+
+Service layer
+
+TosearchAReviewByProduct
+
+ToUpdateACommentByItsId
+
+ToSortReviewListById
+
+
+
+
