@@ -1,4 +1,4 @@
-package AbstractClasses;
+package Day10.AbstractClasses;
 
 abstract class Account {
     String name;

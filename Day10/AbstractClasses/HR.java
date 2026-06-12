@@ -1,4 +1,4 @@
-package AbstractClasses;
+package Day10.AbstractClasses;
 
 public class HR extends Employee {
 

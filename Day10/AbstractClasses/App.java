@@ -1,4 +1,4 @@
-package AbstractClasses;
+package Day10.AbstractClasses;
 
 public class App {
     public static void main(String[] args) {
