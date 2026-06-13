@@ -5,7 +5,7 @@ import java.util.Set;
 
 public class AdmissionSystem {
 
-    Set<Student> students = new HashSet<>();;
+    Set<Student> students = new HashSet<>();
 
     // Register student
     void registerStudent(Student student) {
@@ -57,7 +57,7 @@ public class AdmissionSystem {
         }
 
         for (Student st : students) {
-            if (st.getEmail() == email) {
+            if (st.getEmail().equals(email)) {
                 System.out.println("Registration found!");
                 System.out.println(st);
                 return;
