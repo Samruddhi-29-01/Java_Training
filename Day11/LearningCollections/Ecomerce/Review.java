@@ -1,4 +1,4 @@
-package LearningCollections.Ecomerce;
+package Day11.LearningCollections.Ecomerce;
 
 public class Review implements Comparable<Review> {
     private int reviewId;

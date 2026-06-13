@@ -1,4 +1,4 @@
-package LearningCollections.Ecomerce;
+package Day11.LearningCollections.Ecomerce;
 
 public class Product implements Comparable<Product> {
     private int productID;

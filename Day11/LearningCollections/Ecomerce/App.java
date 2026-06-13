@@ -1,4 +1,4 @@
-package LearningCollections.Ecomerce;
+package Day11.LearningCollections.Ecomerce;
 
 public class App {
     public static void main(String[] args) {

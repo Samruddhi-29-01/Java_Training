@@ -1,4 +1,4 @@
-package LearningCollections;
+package Day11.LearningCollections;
 
 import java.util.*;
 
